@@ -1,9 +1,6 @@
 package br.com.solid.srp;
 
 public class Crud {
-    public static void main(String[] args) {
-        
-    }
 
     public void listClient() {
         
@@ -26,4 +23,5 @@ public class Crud {
      *   Logo, criaremos uma outra classe para notificação, assim respeitando a responsábilidade única das classes
      */
     // public void notifyClient() {}
+
 }
